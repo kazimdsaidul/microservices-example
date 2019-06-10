@@ -4974,3 +4974,111 @@ org.eclipse.swt.SWTException: Widget is disposed
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-10 16:37:42.492
 !MESSAGE executing callback sts4.classpath.VoEuuGNB SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-10 17:01:47.960
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.VoEuuGNB
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-10 17:01:47.964
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.VoEuuGNB
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-10 17:01:47.965
+!MESSAGE subsribers = null
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-10 17:01:47.966
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.VoEuuGNB => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-10 17:15:58.353
+!MESSAGE Boot LS startup time from start to initialized: 3441ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-10 17:15:58.412
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.KmgzwwZM
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-10 17:15:58.413
+!MESSAGE subscribing to classpath changes: sts4.classpath.KmgzwwZM
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-10 17:15:58.414
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-10 17:15:58.415
+!MESSAGE subsribers = [sts4.classpath.KmgzwwZM]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-10 17:15:58.416
+!MESSAGE Sending initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-10 17:15:58.418
+!MESSAGE project GalleryService ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-10 17:15:58.419
+!MESSAGE Preparing classpath changed notification GalleryService
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-10 17:15:58.419
+!MESSAGE project EurekaServer ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-10 17:15:58.420
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-10 17:15:58.420
+!MESSAGE project ImageService ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-10 17:15:58.421
+!MESSAGE project getwayzuul ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-10 17:15:58.422
+!MESSAGE Sending initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-10 17:15:58.423
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.KmgzwwZM => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-10 17:15:58.438
+!MESSAGE classpath=147 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-10 17:15:58.439
+!MESSAGE executing callback sts4.classpath.KmgzwwZM GalleryService false 147
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-10 17:15:58.485
+!MESSAGE executing callback sts4.classpath.KmgzwwZM SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-10 17:15:58.486
+!MESSAGE Preparing classpath changed notification getwayzuul
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-10 17:15:58.486
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-10 17:15:58.494
+!MESSAGE classpath=174 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-10 17:15:58.495
+!MESSAGE executing callback sts4.classpath.KmgzwwZM getwayzuul false 174
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-10 17:15:58.548
+!MESSAGE executing callback sts4.classpath.KmgzwwZM SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-10 17:15:58.548
+!MESSAGE Preparing classpath changed notification ImageService
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-10 17:15:58.549
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-10 17:15:58.555
+!MESSAGE classpath=147 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-10 17:15:58.556
+!MESSAGE executing callback sts4.classpath.KmgzwwZM ImageService false 147
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-10 17:15:58.590
+!MESSAGE executing callback sts4.classpath.KmgzwwZM SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-10 17:15:58.590
+!MESSAGE Preparing classpath changed notification EurekaServer
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-10 17:15:58.591
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-10 17:15:58.595
+!MESSAGE classpath=161 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-10 17:15:58.596
+!MESSAGE executing callback sts4.classpath.KmgzwwZM EurekaServer false 161
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-06-10 17:15:58.610
+!MESSAGE executing callback sts4.classpath.KmgzwwZM SUCCESS [done]
