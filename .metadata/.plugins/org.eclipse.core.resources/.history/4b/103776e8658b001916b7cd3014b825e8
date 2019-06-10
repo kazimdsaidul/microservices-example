@@ -1,0 +1,5 @@
+package com.example.GalleryService.entities;
+
+public class Gallery {
+
+}

@@ -1,0 +1,18 @@
+INDEX VERSION 1.131+/Volumes/Development/workspace_for_spring_microservice/.metadata/.plugins/org.eclipse.jdt.core
+2156978128.index
+1545345550.index
+3058554233.index
+10682560.index
+4055005237.index
+1657886612.index
+3498880915.index
+1091111364.index
+2883638752.index
+403072869.index
+3020709054.index
+2154393185.index
+1012037709.index
+761754642.index
+3884642329.index
+1050882781.index
+348454274.index

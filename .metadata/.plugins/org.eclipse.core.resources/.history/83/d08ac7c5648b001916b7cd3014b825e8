@@ -1,0 +1,5 @@
+package com.example.imageService.entities;
+
+public class Image {
+
+}

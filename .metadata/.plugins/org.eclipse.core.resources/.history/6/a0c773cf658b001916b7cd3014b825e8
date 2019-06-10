@@ -1,0 +1,5 @@
+package com.example.GalleryService.controllers;
+
+public class HomeController {
+
+}

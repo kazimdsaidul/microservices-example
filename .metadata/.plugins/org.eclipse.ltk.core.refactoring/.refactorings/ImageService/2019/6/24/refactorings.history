@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename field &apos;name&apos; in &apos;com.example.imageService.entities.Image&apos; to &apos;title&apos;&#x0A;- Original project: &apos;ImageService&apos;&#x0A;- Original element: &apos;com.example.imageService.entities.Image.name&apos;&#x0A;- Renamed element: &apos;com.example.imageService.entities.Image.title&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" delegate="false" deprecate="false" description="Rename field &apos;name&apos;" flags="589826" getter="false" id="org.eclipse.jdt.ui.rename.field" input="/src\/main\/java&lt;com.example.imageService.entities{Image.java[Image^name" name="title" references="true" setter="false" stamp="1560160087114" textual="false" version="1.0"/>
+</session>
