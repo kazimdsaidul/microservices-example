@@ -48,4 +48,9 @@ public class HomeController {
 	public String homeAdmin() {
 		return "This is the admin area of Gallery service running at port: " + env.getProperty("local.server.port");
 	}
+	@RequestMapping("/test")
+	public String test() {
+		return "this is test";
+	}
+	
 }
